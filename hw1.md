@@ -1,7 +1,5 @@
 # homework 1 
------
 ## 2.61
------
 ### A
     !(~x)
 ### B
@@ -9,7 +7,7 @@
 ### C
     !(~(0xFFFFFF00 | x))
 ### D
-    !(x & 0xFF000000)
+    !(x & 0xFF000000)
 ## 2.62
 ---
     int int_shifts_are_arithmetic()
