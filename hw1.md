@@ -9,13 +9,11 @@
 ### D
     !(x & 0xFF000000)
 ## 2.62
----
     int int_shifts_are_arithmetic()
     {
       return !(~(-1 >> ( 8 * sizeof(int)));
     }
 ## 2.65
-----
     int odd_ones(unsigned x)
     {
         x ^= ( x >> 16 );
