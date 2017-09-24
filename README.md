@@ -1,2 +1,2 @@
 # ddd
-![hw.png](C:\Users\12539\Desktop\hw.png "hw.png") 
+![hw.png](https://github.com/pkuych/homework/blob/master/images/hw.png?raw=true"hw.png") 
